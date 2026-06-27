@@ -70,21 +70,32 @@ screenshots/dashboard-home.png
 
 ---
 
-## Trend Analysis
+## Overview
 
-<img src="screenshots/trend-analysis.png" width="100%">
-
----
-
-## Unit Performance
-
-<img src="screenshots/unit-performance.png" width="100%">
+<img src="./screenshots/overview.png" width="100%">
 
 ---
 
+##  Trend Analysis
+
+<img src="./screenshots/Trends.png" width="100%">
+
+---
+
+## Data Analysis
+
+<img src="./screenshots/draftsystem.png" width="100%">
+
+---
+
+## Data Analysis
+
+<img src="./screenshots/Compressors.png" width="100%">
+
+---
 ## SEC & Heat Rate
 
-<img src="screenshots/sec-dashboard.png" width="100%">
+<img src="./screenshots/Excel extracted Trends.png" width="100%">
 
 ---
 
