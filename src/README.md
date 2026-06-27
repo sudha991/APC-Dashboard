@@ -248,19 +248,6 @@ npm run dev
 * Predictive Analytics
 * Mobile App Version
 
----
-
-# 📸 Demo
-
-Add a GIF for recruiters.
-
-```
-screenshots/demo.gif
-```
-
-```markdown
-![Demo](screenshots/demo.gif)
-```
 
 ---
 
