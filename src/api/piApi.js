@@ -1,10 +1,10 @@
 import axios from "axios";
 
-//const BASE_URL = "http://10.0.176.18:8090";
+//const BASE_URL = "http://10.0.16.18:8090";
 //const BASE_URL = "https://localhost:44381";
 
 const BASE_URL =
-  "http://10.0.176.18:8090";
+  "http://10.0.16.18:8090";
 
 // ========================================
 // POWER DATA
