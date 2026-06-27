@@ -66,7 +66,7 @@ The application emphasizes usability, responsive design, reusable React componen
 screenshots/dashboard-home.png
 ```
 
-<img src="screenshots/dashboard-home.png" width="100%">
+<img src="./screenshots/Home.png" width="100%">
 
 ---
 
